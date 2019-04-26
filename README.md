@@ -30,10 +30,5 @@ This project is implemented using Flask framework and is a REST API for to basic
 
 Kindly note that this API is now available on two platforms
 
-``
-[https://apps.humvite.com/flaskapp/](https://apps.humvite.com/flaskapp/)
-``
-AND
-``
-[https://stores-flask-res-api.herokuapp.com/](https://stores-flask-res-api.herokuapp.com/)
-``
+
+[https://apps.humvite.com/flaskapp/](https://apps.humvite.com/flaskapp/) AND [https://stores-flask-res-api.herokuapp.com/](https://stores-flask-res-api.herokuapp.com/)
