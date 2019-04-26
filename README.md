@@ -25,3 +25,15 @@ Not much can be said any further except it was done for fun.
 ## Implementation
 
 This project is implemented using Flask framework and is a REST API for to basically CRUD stores and items 
+
+## Tests
+
+Kindly note that this API is now available on two platforms
+
+``
+[https://apps.humvite.com/flaskapp/](https://apps.humvite.com/flaskapp/)
+``
+AND
+``
+[https://stores-flask-res-api.herokuapp.com/](https://stores-flask-res-api.herokuapp.com/)
+``

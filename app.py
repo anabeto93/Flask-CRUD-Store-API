@@ -22,6 +22,10 @@ api = Api(app)
 
 jwt =  JWT(app, authenticate, identity) #/auth
 
+@app.route("/")
+def hello():
+    return "<h1 style='color:blue; margin-left: 50%; transform: translateX(-50%);'>Flask Rest Store CRUD API</h1>"
+
 api.add_resource(Item, '/item/<string:name>')
 api.add_resource(ItemList, '/items')
 api.add_resource(UserRegister, '/register')
